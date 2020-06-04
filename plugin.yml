@@ -7,5 +7,4 @@ description: Spawn Envoys In The Warzone For You Players To Collect Items
 
 commands:
  setenvoy:
-  default: op
   description: Set an envoy
