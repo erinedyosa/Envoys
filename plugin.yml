@@ -1,7 +1,10 @@
 name: Envoys
 main: bajan\Envoys\Main
 version: 0.0.1
-api: [3.0.0, 4.0.0, 4.1.0]
+api: 
+- 3.0.0
+- 4.0.0
+- 4.1.0
 author: BajanVlogs
 description: Spawn Envoys In The Warzone For You Players To Collect Items
 
